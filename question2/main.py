@@ -1,5 +1,5 @@
 """
-Question 2
+Question 2 - Lottery
 
 Ask the user to press any key.
 Display any 3 random space-separated digits between 0-9 e.g. 6 2 7.
